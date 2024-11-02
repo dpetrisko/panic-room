@@ -1,0 +1,16 @@
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = git@github.com:riscv/riscv-gnu-toolchain.git
+	branch = 2024.09.03
+[submodule "littlefs"]
+	path = littlefs
+	url = git@github.com:littlefs-project/littlefs.git
+	branch = v2.9.3
+[submodule "newlib"]
+	path = newlib
+	url = git@github.com:dpetrisko/newlib.git
+	branch = upstream_newlib
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = git@github.com:riscv-software-src/riscv-isa-sim.git
+	branch = v1.1.0
